@@ -1,0 +1,7 @@
+*.gz
+*.tar
+ctf-testsuite/
+synctraces/
+synthetic-trace/
+os-events/
+qmlscene/
